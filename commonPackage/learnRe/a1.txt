@@ -1,0 +1,2 @@
+===zhangxy test===distributeRouteInfo:<version:10 cmdType:4 routeInfos:<cost:1957 hops:<ip:"192.12.30.1" port:9000 > hops:<ip:"192.7.20.1" port:9000 > > routeInfos:<cost:1957 hops:<ip:"192.12.30.1" port:9000 > hops:<ip:"192.7.30.1" port
+:9000 > > routeInfos:<cost:2136 hops:<ip:"192.12.30.1" port:9000 > hops:<ip:"192.16.30.1" port:9000 > > routeInfos:<cost:2136 hops:<ip:"192.12.30.1" port:9000 > hops:<ip:"192.16.20.1" port:9000 > > >

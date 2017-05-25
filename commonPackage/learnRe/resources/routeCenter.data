@@ -1,0 +1,87 @@
+[route_info_3222019585] #"192.12.30.1"
+routeInfo_1 = routeInfos:<cost:(\d+) hops:<ip:"192.12.30.1" port:9000 > hops:<ip:"192.7.20.1" port:9000 > >
+weight_1 = 1957
+routeInfo_2 = routeInfos:<cost:(\d+) hops:<ip:"192.12.30.1" port:9000 > hops:<ip:"192.7.30.1" port:9000 > >
+weight_2 = 1957
+routeInfo_3 = routeInfos:<cost:(\d+) hops:<ip:"192.12.30.1" port:9000 > hops:<ip:"192.16.30.1" port:9000 > >
+weight_3 = 2136
+routeInfo_4 = routeInfos:<cost:(\d+) hops:<ip:"192.12.30.1" port:9000 > hops:<ip:"192.16.20.1" port:9000 > >
+weight_4 = 2136
+
+
+
+[route_info_3222017025] #"192.12.20.1"
+routeInfo_1 = routeInfos:<cost:(\d+) hops:<ip:"192.12.20.1" port:9000 > hops:<ip:"192.7.20.1" port:9000 > >
+weight_1 = 1957
+routeInfo_2 = routeInfos:<cost:(\d+) hops:<ip:"192.12.20.1" port:9000 > hops:<ip:"192.7.30.1" port:9000 > >
+weight_2 = 1957
+routeInfo_3 = routeInfos:<cost:(\d+) hops:<ip:"192.12.20.1" port:9000 > hops:<ip:"192.16.20.1" port:9000 > > 
+weight_3 = 2136
+routeInfo_4 = routeInfos:<cost:(\d+) hops:<ip:"192.12.20.1" port:9000 > hops:<ip:"192.16.30.1" port:9000 > >
+weight_4 = 2136
+
+
+[route_info_3221691905] #"192.7.30.1"
+routeInfo_1 = routeInfos:<cost:(\d+) hops:<ip:"192.7.30.1" port:9000 > hops:<ip:"192.12.20.1" port:9000 > >
+weight_1 = 2146
+routeInfo_2 = routeInfos:<cost:(\d+) hops:<ip:"192.7.30.1" port:9000 > hops:<ip:"192.12.30.1" port:9000 > >
+weight_2 = 2146
+routeInfo_3 = routeInfos:<cost:(\d+) hops:<ip:"192.7.30.1" port:9000 > hops:<ip:"192.12.10.1" port:9000 > hops:<ip:"192.16.20.1" port:9000 > >              
+weight_3 = 4282
+routeInfo_4 = routeInfos:<cost:(\d+) hops:<ip:"192.7.30.1" port:9000 > hops:<ip:"192.12.10.1" port:9000 > hops:<ip:"192.16.30.1" port:9000 > > 
+weight_4 = 4282
+
+
+[route_info_3221689345] #"192.7.20.1"
+routeInfo_1 = routeInfos:<cost:(\d+) hops:<ip:"192.7.20.1" port:9000 > hops:<ip:"192.12.20.1" port:9000 > >
+weight_1 = 2146
+routeInfo_2 = routeInfos:<cost:(\d+) hops:<ip:"192.7.20.1" port:9000 > hops:<ip:"192.12.30.1" port:9000 > >
+weight_2 = 2146
+routeInfo_3 = routeInfos:<cost:(\d+) hops:<ip:"192.7.20.1" port:9000 > hops:<ip:"192.12.10.1" port:9000 > hops:<ip:"192.16.20.1" port:9000 > >
+weight_3 = 4282
+routeInfo_4 = routeInfos:<cost:(\d+) hops:<ip:"192.7.20.1" port:9000 > hops:<ip:"192.12.10.1" port:9000 > hops:<ip:"192.16.30.1" port:9000 > >
+weight_4 = 4282
+
+
+[route_info_3222279169] #"192.16.20.1"
+routeInfo_1 = routeInfos:<cost:(\d+) hops:<ip:\"192.16.20.1\" port:9000 > hops:<ip:\"192.12.10.1\" port:9000 > hops:<ip:\"192.7.30.1\" port:9000 > >
+weight_1 = 3904
+routeInfo_2 = routeInfos:<cost:(\d+) hops:<ip:\"192.16.20.1\" port:9000 > hops:<ip:\"192.12.10.1\" port:9000 > hops:<ip:\"192.7.20.1\" port:9000 > >
+weight_2 = 3904
+routeInfo_3 = routeInfos:<cost:(\d+) hops:<ip:\"192.16.20.1\" port:9000 > hops:<ip:\"192.12.20.1\" port:9000 > >
+weight_3 = 1947
+routeInfo_4 = routeInfos:<cost:(\d+) hops:<ip:\"192.16.20.1\" port:9000 > hops:<ip:\"192.12.30.1\" port:9000 > >
+weight_4 = 1947
+
+
+[route_info_3222281729] #"192.16.30.1"
+routeInfo_1 = routeInfos:<cost:(\d+) hops:<ip:\"192.16.30.1\" port:9000 > hops:<ip:\"192.12.10.1\" port:9000 > hops:<ip:\"192.7.30.1\" port:9000 > >
+weight_1 = 3904
+routeInfo_2 = routeInfos:<cost:(\d+) hops:<ip:\"192.16.30.1\" port:9000 > hops:<ip:\"192.12.10.1\" port:9000 > hops:<ip:\"192.7.20.1\" port:9000 > >
+weight_2 = 3904
+routeInfo_3 = routeInfos:<cost:(\d+) hops:<ip:\"192.16.30.1\" port:9000 > hops:<ip:\"192.12.20.1\" port:9000 > >
+weight_3 = 1947
+routeInfo_4 = routeInfos:<cost:(\d+) hops:<ip:\"192.16.30.1\" port:9000 > hops:<ip:\"192.12.30.1\" port:9000 > >
+weight_4 = 1947
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
